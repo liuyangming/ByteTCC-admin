@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.settings
+/bytetcc-admin-agent/.classpath
+/bytetcc-admin-agent/.project
+/bytetcc-admin-api/.classpath
+/bytetcc-admin-api/.project
+/bytetcc-admin-console/.classpath
+/bytetcc-admin-console/.project
+target
