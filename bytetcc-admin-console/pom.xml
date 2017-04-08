@@ -8,7 +8,7 @@
 		<version>0.0.1</version>
 	</parent>
 	<artifactId>bytetcc-admin-console</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>bytetcc-admin-console</name>
 	<url>http://www.bytesoft.org</url>
